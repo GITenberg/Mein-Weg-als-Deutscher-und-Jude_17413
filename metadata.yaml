@@ -15,6 +15,8 @@ creator:
     - http://de.wikipedia.org/wiki/Jakob_Wassermann
     - http://en.wikipedia.org/wiki/Jakob_Wassermann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17413#Mein-Weg-als-Deutscher-und-Jude
 gutenberg_bookshelf:
 - Judaism
 - DE Prosa
